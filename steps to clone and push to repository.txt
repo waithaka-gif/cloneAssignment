@@ -1,0 +1,28 @@
+create a location in your c drive 
+open github 
+click new repository
+create a new repository
+on the new repository
+click on the code
+copy the URL link
+go to your location in c drive
+open the location
+right click and choose option git bash here
+it will open the git command window
+on the window type
+git clone {paste the url you copied}
+you have successfully cloned your own repository.
+open your location you created
+paste any files you want to add to your repository
+right click and choose git bash here
+git status
+new files have been added
+git add .
+to add all the new files
+git commit -m "New added Files"
+commit all new files
+git push
+to push them to your repository
+git status
+check everything is ok.
+
